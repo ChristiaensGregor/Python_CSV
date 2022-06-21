@@ -1,0 +1,68 @@
+﻿User_id;Inspection_id;Created at;Hive_id;Hive name;Location_id;General impression;Needs attention;Reminder;Reminder date;Notes;Bee colony > Activity > Comb building;Bee colony > Activity > Pollen inflow;Bee colony > Activity > Swarming > Swarmed;Bee colony > Brood > Frames with brood;Bee colony > Brood > Presence;Bee colony > Brood > Status > All stages;Bee colony > Brood > Status > Eggs;Bee colony > Brood > Status > Larvae;Bee colony > Brood > Status > Pupae;Bee colony > Characteristics > Comb calmness;Bee colony > Characteristics > Hygiene > Hygienic behaviour;Bee colony > Characteristics > Hygiene > Odor;Bee colony > Characteristics > Hygiene > Propolis use;Bee colony > Characteristics > Over-wintering ability;Bee colony > Characteristics > Spring buildup;Bee colony > Characteristics > Swarm tendency;Bee colony > Characteristics > Temper;Bee colony > Comb replacement > Comb replaced;Bee colony > Drones > Drone brood present;Bee colony > Drones > Drone brood present > Amount;Bee colony > Drones > Drones present;Bee colony > Drones > Foundationless frame;Bee colony > Drones > Foundationless frame > Brood removed;Bee colony > Drones > Foundationless frame > Number of frames;Bee colony > Drones > Foundationless frame > Status;Bee colony > Loss > Colony loss;Bee colony > Loss > Dead Bees;Bee colony > Population > Sufficient adult bees;Bee colony > Queen > Cells;Bee colony > Queen > Cells > Queen cup;Bee colony > Queen > Cells > Queen cup > Number;Bee colony > Queen > Cells > Queen cup > Removed all;Bee colony > Queen > Introduction;Bee colony > Queen > Presence;Bee colony > Size > Frames with bees;Bee colony > Splitting colony > Colony split;Bee colony > Splitting colony > Colony split > Note;Bee colony > Swarm prevention > Method;Bee colony > Swarm prevention > Note;Bee colony > Uniting colonies > Colony united;Disorder > Absence of stressors;Disorder > Count > Varroa > Note;Disorder > Photo;Disorder > Treatment > Varroa > Remedy;Disorder > Type > Insects;Disorder > Varroa > Count;Disorder > Varroa > Treatment;Food > Feeding > Amount (volume);Food > Feeding > Amount (weight);Food > Feeding > Concentration;Food > Feeding > Type;Food > Forage > Main source;Food > Forage > Note;Food > Forage > Status;Food > Stock > Bee bread;Food > Stock > Bee bread > Number of frames;Food > Stock > Honey;Food > Stock > Honey > Number of frames;Food > Stock > Nectar;Food > Stock > Nectar > Number of frames;Food > Stock > Pollen;Food > Stock > Pollen > Number of frames;Food > Stock > Status;Food > Sufficient nutrition;Food > Water > Water availability;Food > Water > Water quality;Hive > Configuration > Brood layers;Hive > Configuration > Feeding box;Hive > Configuration > Frames per layer;Hive > Configuration > Queen excluder;Hive > Configuration > Supers;Hive > Device > Device added;Hive > Device > Device removed;Space > Bee colony > Status;Space > Bee colony > Suitable space;Space > Unoccupied frames > Bee colony > Brood frames;Space > Unoccupied frames > Bee colony > Super frames;Weather > Ambient temperature;Weather > Cloud cover;Weather > Precipitation;Deleted at
+2306;155169;2022-05-21 11:43:24;21313;Gele kast;4183;8-);No;;;Saw queen, fine amount of brood. haven't really built too much on the foundation frames. Replace the top brood box's filler frame with foundation, put it two frames from the right, seeing as the queen was a bit more active in that region;;;;;Yes;;;;;;;;Medium;;;Low;8-);;;;;;;;;;No;;No;;;;;Yes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Yes;5;8-);;;;;;;;Just right;Yes;1;;;;;
+2306;151271;2022-05-11 22:01:00;21313;Gele kast;4183;;;;;Hive action;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;0;11;2;1;;;;;;;;;;
+2306;151274;2022-05-09 15:01:47;21313;Gele kast;4183;8-);No;;;"They technically had enough space if you look at the amount of bees. But they clearly didn't have enough space for brood and started filling potential-drone-area with honey. So added a super.
+And lowered the filler frames from 4 to 2. Now there is a one filler frame on the right of each brood box";4;;No;7;Yes;;Yes;Yes;Yes;;;;Medium;;;Low;8-);;Yes;;Low;;;;;;Yes;;No;;;;;Yes;;;;Queen Includer;;;;noticed a couple on the plank;;;;Yes;;;;;;;;;;;Yes;8;;;Yes;2,3;;Yes;4;8-);;;;;;;;Too little;No;2;;;;;
+2306;145587;2022-04-27 20:24:51;21313;Gele kast;4183;8-);No;;;Active inside but not aggressive, added a box, 4 filler frames (one on each side), pulled up 2 frames (one with queen) and filled the rest with spare frames from dead hive. Queen excluder between them (with the 2nd entrance);4;;No;5;Yes;;Yes;Yes;Yes;5;;8-);Medium;;;Low;8-);;Yes;;Low;Yes;Yes;;Eggs,Larvae,Empty comb;No;No;;No;;;;No;Yes;;No;;;Queen excluder;No;No;;;;;;;;;;;;Decent amount of traffic during the days;4;Yes;0,5;Yes;13;;;Yes;;8-);Yes;5;8-);;;;;;;;Just right;Yes;;4;;;;
+2306;145557;2022-04-27 17:58:00;21313;Gele kast;4183;;;;;Hive action;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;0;11;0;0;;;;;;;;;;
+2306;145146;2022-04-26 14:05:00;21312;Green hive;4183;;;;;Device added: BEEPBASE-DFA2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;834;;;;;;;;;
+2306;145145;2022-04-26 14:05:00;21313;Gele kast;4183;;;;;Device removed: BEEPBASE-DFA2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;834;;;;;;;;
+2306;145104;2022-04-26 13:10:00;21313;Gele kast;4183;;;;;Device added: BEEPBASE-DFA2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;834;;;;;;;;;
+2306;145103;2022-04-26 13:10:00;21312;Green hive;4183;;;;;Device removed: BEEPBASE-DFA2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;834;;;;;;;;
+2306;145102;2022-04-26 13:07:00;21312;Green hive;4183;;;;;Hive action;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;10;0;0;;;;;;;;;;
+2306;145096;2022-04-26 13:00:00;21313;Gele kast;4183;;;;;Hive action;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;0;11;0;0;;;;;;;;;;
+2306;111602;2021-08-11 10:45:00;21313;Gele kast;4183;;;;;"- put queen excluder in the middle.
+- queen is at the bottom. So is most of the brood 
+- top has lots of honey frames.
+- bottom was way busier than the top
+- drone brood low
+- very slow building
+- still one filler frame left top
+- drone frame haven't built much.
+
+1 box strategy require probably";;;;;;;;;;;;;High;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2306;111591;2021-08-11 10:18:00;21312;Green hive;4183;8-);;;;"- inserted queen excluder in the middle. Pulled frame with queen to top. Pulled honey frame down.
+- bottom: good amount of brood in middle.
+Some pollen as well.
+- removed 1/3 drone frame";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2306;108034;2021-07-23 10:19:00;21312;Green hive;4183;8-);;;;"Added a strip to each box. 
+Put in plank with beedriver.
+Less is super then yellow hive super.
+Same as yellow, top honey, bottom brood";;;;;;;;;;;;8-|;High;;;Low;8-|;;Yes;;Medium;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Yes;;Yes;;Yes;;;;;;;;;;;;;Too little;;;;;;;
+2306;108027;2021-07-23 09:31:00;21313;Gele kast;4183;8-);No;;;"We put the bee driver back in. So the super is empty next time. Remove the super. They have lots of food. 
+Top is mostly honey.
+Bottom is mostly drones.
+Added strip to the bottom. Now both boxes have a strip";;3;;8;Yes;;;;;;;8-|;Medium;;;Low;8-);;;;Low;;;;;;;;;;;;;;;;;;;;;;;Oxalic acid;;;Yes;;;;;;;;;;Yes;11;;;Yes;;;Yes;5;8-);;;;;;;;;;;;;;;
+2306;102787;2021-06-30 14:00:00;21312;Green hive;4183;8-);;;;"Skipped bottom box. Couple small play cells.
+Harvest newt time";;;No;;;;;Yes;;;;8-);Medium;;;Medium;8-|;;;;Medium;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Yes;;;Yes;;8-);;;;;;;;Just right;Yes;;;;;;
+2306;99362;2021-06-15 16:21:00;21313;Gele kast;4183;8-);No;;;"Drone count is normal
+Lower on pollen than the other hive";2;4;;;;;;;;;;8-);Low;;;Low;8-);;Yes;;Medium;No;;;;;;;No;;;;;Yes;;;;Cutting out queen cells;;;;;;;;;;;;;;;;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Just right;Yes;;11;;;;
+2306;99334;2021-06-15 15:33:00;21312;Green hive;4183;8-);No;;;;5;4;No;;Yes;Yes;;;;;;8-);Medium;;;Low;8-);;;;High;;;;;;;;;;;;;No;;;;Cutting out queen cells;No closed queen cells found;;;;;;;;;;;;;;;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Just right;Yes;;;;;;
+2306;90529;2021-05-15 15:06:00;21312;Green hive;4183;8-);;Check if we need to remove drone brood;;;3;3;No;;Yes;Yes;;;;;;;;;4;;;;Yes;;;No;;;;;;;No;;;;;;;;;Cutting out queen cells;;;;;;;;;;;;;;;;3;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Just right;Yes;0;11;;;;
+2306;57901;2020-07-27 22:20:00;21312;Green hive;4183;8-);No;;;"4 fillers at the bottom.
+ 2 at the top 
+remaining
+
+gave them a new bag 2.5kg of fondant fondabee beerneem (previous bag was almost empty. small corner remaining)";3;3;No;;Yes;Yes;;;;;5;8-|;High;4;;;8-);;Yes;;Low;;;;;No;No;;No;;;;No;Yes;;No;;;;No;;;;;;;;;2500 gr;;Fondant;;;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;;Yes;1;;;;;
+2306;57687;2020-07-26 18:42:00;21313;Gele kast;4183;8-);No;;;"4 fillers at the bottom.
+ 2 at the top 
+remaining";3;3;No;;Yes;Yes;;;;;5;8-);High;4;;;8-|;;Yes;;Low;;;;;No;No;;No;;;;No;Yes;;No;;;;No;Yes;;;;;;;;;;Fondant;;Mainly white;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;;Yes;1;;;;;
+2306;56280;2020-07-19 19:43:00;21313;Gele kast;4183;8-);No;;;"Very annoyed as usual, not as stingy as last time though I think.
+Did get stung in suit, but was probably because of a bee that was already in my suit somehow.
+
+Gave them 2.5kg bag of Fondabee (bought at Nectarist.be) on the day of the inspection.
+
+Probably no need to put in a new frame as the current ones still could do with more building";3;4;No;;Yes;Yes;;;;;;;Low;;;;8-(;;Yes;;Low;;;;;No;No;;Yes;Yes;1;Yes;No;Yes;;;;;;;Yes;;;;Wasps;;;;2500 gr;;Fondant;;;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;;Yes;;;;;;
+2306;56277;2020-07-19 18:26:00;21312;Green hive;4183;8-);No;Needs extra frame next inspection;2020-07-26 17:41:00;"Very calm as usual. Couple wasps that seem to enter the hive every now and then but exit pretty quickly most of the time. (wasp trap nearby).
+
+Gave them 2.5kg bag of Fondabee (bought at Nectarist.be) on the 17th (couple days before the inspection). They had eaten a cilinder sized hole of about 1.5cm into it when we removed it during the inspection";5;4;No;;Yes;Yes;;;;;;;;;;;8-);;Yes;;;;;;;No;No;;Yes;Yes;1;Yes;;Yes;;No;;;;No;Yes;;;;Wasps;;;;2500 gr;;Fondant;;;;Yes;;Yes;;Yes;;Yes;;;Yes;5;8-);;;;;;;;Too little;Yes;;;;;;
+2306;52780;2020-06-28 18:44:00;21312;Green hive;4183;8-);Yes;"Add broodbox.
+Check broodframes for actual brood capping (then add box)";;"Very calm.
+A lot of brood, less honey (might be because we put the box on last time). Seems like they might be opening winter savings to expand more or something.";5;4;No;;Yes;Yes;;;;;;;Low;;;;8-);27;Yes;;Low;;;;;No;No;;No;;;;;Yes;;No;;;;No;Yes;;;;;;;;;;;;;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Too little;No;;;;;;
+2306;52774;2020-06-28 18:22:00;21313;Gele kast;4183;8-);;;;"Very pissed. (could be mix of factors: lots of wind. destroyed/opened honey cells from side frame. Very full hive)
+Placed new broodbox on top (overflowing amount of bees. Already noticed it from looking at the glas roof)";5;4;No;9;Yes;Yes;;;;;;;Medium;;;;8-(;50;Yes;;Low;;;;;No;No;;No;;;;;Yes;;;;;;;Yes;;;;;;;;;;;Slightly more bees in our garden;;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Spacious;Yes;3;;;;;
+2306;51240;2020-06-19 18:36:00;21312;Green hive;4183;8-);;;;"Removed all bottom and top queen excluder, and removed honey super.
+Raphael said that they won't be swarming any time soon (because it's a young hive)";5;4;No;;Yes;Yes;;;;;;;Medium;;;Low;8-);27;Yes;;;;;;;No;No;;No;;;;;Yes;;No;;;;No;Yes;;;;;No;;;;;;Seems to be other gardens/forest (not many bees present on flower garden);;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Just right;Yes;;;;;;
+2306;51239;2020-06-19 18:17:00;21313;Gele kast;4183;8-);;;;Raphael said that they won't be swarming any time soon (because it's a young hive);5;4;No;;Yes;Yes;;;;;;;;;;;8-);36;Yes;;;;;;;No;No;;No;;;;;Yes;;No;;;;No;Yes;;;;;No;;;;;;Seems to be other gardens/forest (not many bees present on flower garden);;;Yes;;Yes;;Yes;;Yes;;8-);Yes;5;8-);;;;;;;;Just right;Yes;;;;;;
+2306;48587;2020-06-03 18:00:00;21312;Green hive;4183;8-);;replace filler frame with fresh one;2020-06-11 15:00:00;input 'Frames with bees' from previous inspection;;;;;;Yes;;;;;;;;;;;;;Yes;;;;;;;;;;No;;;;;Yes;;;;;Removed some bumbs, didn't seem to be proper queen cells though;;;;https://assets.beep.nl/users/2306/thumbs/inspection/Jp7aq0WbERwGtDD3lRsD2vOqegti0lGpi24lYlDBGg69TKjYo9sT8hJf6UY3.jpg;;;;;;;;;;;;;;Yes;;;;Yes;;8-);;;;;;;;;;;;;;;22 °C;Clear;0 mm;
+2306;48583;2020-06-03 17:25:00;21313;Gele kast;4183;8-);;replace filler frame with fresh one;2020-06-11 15:00:00;input 'Frames with bees' from previous inspection;5;4;No;;;Yes;;;;;;;;;;;;;Yes;;;;;;;;;;No;;;;;Yes;0;;;;Removed some bumbs, didn't seem to be proper queen cells though;;;;;;;;;;;;;;;;;;Yes;;;;Yes;;8-);;;;;;;;;;;;;;;20 °C;Clear;0 mm;
